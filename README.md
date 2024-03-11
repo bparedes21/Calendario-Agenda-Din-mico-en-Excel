@@ -37,7 +37,8 @@ Haz clic en la imagen para ver un video de demostración del proyecto en YouTube
 
 Para ver el archivo Excel con el calendario y los eventos programados, haz clic en el siguiente enlace:
 
-[Ver Archivo Excel](Archivo Excel/Calendario-Agenda.xls)
+[Ver Archivo Excel](Archivo%20Excel/Calendario-Agenda.xls)
+
 
 ## Agradecimiento
 
