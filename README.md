@@ -27,9 +27,11 @@ El proyecto consiste en la creación de un calendario-agenda dinámico utilizand
 - Proporcionar a los usuarios una solución versátil y personalizable para organizar sus actividades diarias, semanales o mensuales.
 
 ## Video de YouTube
-
+<p align="center">
+   
 [![Calendario-Agenda Dinámico en Excel](https://img.youtube.com/vi/QezYWdPjJ0A/0.jpg)](https://youtu.be/QezYWdPjJ0A)
 
+</p>
 
 Haz clic en la imagen para ver un video de demostración del proyecto en YouTube.
 
@@ -38,7 +40,7 @@ Haz clic en la imagen para ver un video de demostración del proyecto en YouTube
 Para ver el archivo Excel con el calendario y los eventos programados, haz clic en el siguiente enlace:
 
 [Ver Archivo Excel](Archivo%20Excel/Calendario-Agenda.xlsx)
-
+</p>
 
 ## Agradecimiento
 
