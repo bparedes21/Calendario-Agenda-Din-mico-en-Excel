@@ -13,18 +13,24 @@ En este proyecto, se muestra cómo utilice las funciones de Excel para crear un 
 
 El proyecto consiste en la creación de un calendario-agenda dinámico utilizando las funciones de Excel. Este calendario-agenda permitirá a los usuarios gestionar y organizar sus eventos, citas y actividades de manera eficiente y efectiva. Utilizando las diversas funciones y características de Excel, se desarrollará una herramienta versátil y personalizable que se adapte a las necesidades individuales de los usuarios.
 
-## Características Principales
+## Características principales 🚀
 
-1. **Ingreso de Eventos:** Los usuarios podrán ingresar eventos, citas y actividades en fechas específicas del calendario.
-2. **Visualización en Formato de Calendario:** Los eventos programados se mostrarán con un color verde claro dentro del calendario, ademas de la fecha tachada para una rápida referencia visual.
-3. **Edición y Eliminación de Eventos:** Se proporcionarán opciones para editar o eliminar eventos existentes según sea necesario.
-4. **Fines de semana:**  Se distinguen los fines de semana con color rojo.
-5. **Dia Actual:** El dia actual se distingue del resto de los dias con color azul.
+- **Ingreso de Eventos:** Registra fácilmente tus eventos en fechas específicas del calendario.
+- **Visualización en Formato de Calendario:** Los eventos programados se muestran con un color verde claro dentro del calendario, además de la fecha tachada para una rápida referencia visual.
+- **Edición y Eliminación de Eventos:** Podrás editar o eliminar eventos existentes según sea necesario.
+- **Validación de Datos:** El formulario en Visual Basic valida la fecha ingresada y asegura que el campo de evento no esté vacío.
 
-## Objetivos del Proyecto
+## Versiones disponibles 💻
 
-- Desarrollar una herramienta funcional y fácil de usar para la gestión de eventos en Excel.
-- Proporcionar a los usuarios una solución versátil y personalizable para organizar sus actividades diarias, semanales o mensuales.
+- **Excel 365:** Versión más actualizada con todas las características y funcionalidades.
+- **Excel 2010:** Versión de escritorio para aquellos que prefieren una solución más tradicional.
+
+## Uso del proyecto 📝
+
+1. Descarga el archivo de Excel correspondiente a tu versión preferida.
+2. Abre el archivo de Excel y explora las diferentes funcionalidades.
+3. Utiliza el formulario en Visual Basic para ingresar nuevos eventos de manera rápida y eficiente.
+4. Disfruta de una gestión organizada y efectiva de tus actividades diarias.
 
 ## Video de YouTube
 <p align="center">
@@ -35,11 +41,6 @@ El proyecto consiste en la creación de un calendario-agenda dinámico utilizand
 
 Haz clic en la imagen para ver un video de demostración del proyecto en YouTube.
 
-## Descarga del Archivo Excel
-
-Para Descargar el archivo Excel, haz clic en el siguiente enlace:
-
-[Descargar Archivo Excel](https://github.com/bparedes21/Calendario-Agenda-Dinamico-en-Excel/tree/main/Archivo%20Excel)
 </p>
 
 ## Agradecimiento
