@@ -20,28 +20,14 @@ El proyecto consiste en la creación de un calendario-agenda dinámico utilizand
 - **Edición y Eliminación de Eventos:** Podrás editar o eliminar eventos existentes según sea necesario.
 - **Validación de Datos:** El formulario en Visual Basic valida la fecha ingresada y asegura que el campo de evento no esté vacío.
 
-## Versiones disponibles 💻
-
-- **Excel 365:** Versión más actualizada con todas las características y funcionalidades.
-- **Excel 2010:** Versión de escritorio para aquellos que prefieren una solución más tradicional.
 
 ## Uso del proyecto 📝
 
-1. Descarga el archivo de Excel correspondiente a tu versión preferida.
+1. Descarga el archivo de Excel.
+- [Descargar Excel](https://github.com/bparedes21/Calendario-Agenda-Dinamico-en-Excel/tree/main/Archivo%20Excel)
 2. Abre el archivo de Excel y explora las diferentes funcionalidades.
 3. Utiliza el formulario en Visual Basic para ingresar nuevos eventos de manera rápida y eficiente.
 4. Disfruta de una gestión organizada y efectiva de tus actividades diarias.
-
-## Video de YouTube
-<p align="center">
-   
-[![Calendario-Agenda Dinámico en Excel](https://img.youtube.com/vi/QezYWdPjJ0A/0.jpg)](https://youtu.be/QezYWdPjJ0A)
-
-</p>
-
-Haz clic en la imagen para ver un video de demostración del proyecto en YouTube.
-
-</p>
 
 ## Agradecimiento
 
