@@ -35,11 +35,11 @@ El proyecto consiste en la creación de un calendario-agenda dinámico utilizand
 
 Haz clic en la imagen para ver un video de demostración del proyecto en YouTube.
 
-## Visualización del Archivo Excel
+## Descarga del Archivo Excel
 
-Para ver el archivo Excel con el calendario y los eventos programados, haz clic en el siguiente enlace:
+Para Descargar el archivo Excel, haz clic en el siguiente enlace:
 
-[Ver Archivo Excel](Archivo%20Excel/Calendario-Agenda.xlsx)
+[Descargar Archivo Excel](https://github.com/bparedes21/Calendario-Agenda-Dinamico-en-Excel/tree/main/Archivo%20Excel)
 </p>
 
 ## Agradecimiento
