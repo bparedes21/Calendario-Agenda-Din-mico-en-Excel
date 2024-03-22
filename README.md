@@ -20,7 +20,10 @@ El proyecto consiste en la creación de un calendario-agenda dinámico utilizand
 - **Edición y Eliminación de Eventos:** Podrás editar o eliminar eventos existentes según sea necesario.
 - **Validación de Datos:** El formulario en Visual Basic valida la fecha ingresada y asegura que el campo de evento no esté vacío.
 
-- ➡️ [video] (https://acortar.link/Video-demostracion)
+## Video de Demostración
+
+¡No te pierdas nuestra demostración en video! ➡️ [Video de Demostración](https://acortar.link/Video-demostracion)
+
 
 ## Uso del proyecto 📝
 
